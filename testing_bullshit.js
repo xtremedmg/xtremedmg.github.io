@@ -1,4 +1,4 @@
-function ux_bullshit() {
+function testing_bullshit() {
 	var result = [
 		"You should try a " + adjective() +" " + ux_technique() + " with a " + role() + " to " + outcome(),
 		"Go and fire a " + role(),
