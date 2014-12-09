@@ -10,7 +10,7 @@
 	return role[Math.floor(Math.random()*role.length)];
 }
 
-function ux_technique() {
+function testing_technique() {
 	var techn = [
 		"competitor analysis",
 		"user surveys",
@@ -61,18 +61,18 @@ function company() {
 	return company[Math.floor(Math.random()*company.length)]; 
 }
 
-function ux_bullshit() {
+function testing_bullshit() {
 	var result = [
-		// "You should try a " + adjective() +" " + ux_technique() + " with a " + role(),
+		// "You should try a " + adjective() +" " + testing_technique() + " with a " + role(),
 		// "Go and fire a " + role(),
-		// ux_technique() + " is the new " + ux_technique(),
-		company() + " is killing " + ux_technique(),
+		// testing_technique() + " is the new " + testing_technique(),
+		company() + " is killing " + testing_technique(),
  	];
 	return result[Math.floor(Math.random()*result.length)];
 }
 
 var item = document.getElementById("technique");
 setInterval(function(){
-	item.textContent = '“' + ux_bullshit() + '”';
+	item.textContent = '“' + testing_bullshit() + '”';
 },2000);
 
