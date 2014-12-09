@@ -1,4 +1,4 @@
-function ux_people() {
+function testing_people() {
 	return random([
 		"Jakob Nielsen",
 		"Don Norman",
