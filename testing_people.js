@@ -3,7 +3,7 @@ function testing_people() {
 		"Rex Black",
 		"Michael Bolton",
 		"James Bach",
-		"Richard Robinson",
+		"Richard",
 		"Brian Osman",
 		"Oliver Erlewein",
 		"David Greenlees",
