@@ -6,6 +6,8 @@ function role() {
 		"tech lead",
 		"stakeholder",
 		"business analyst",
-		"project manager"
+		"project manager",
+		"tester",
+		"CEO",
 	]);
 }
