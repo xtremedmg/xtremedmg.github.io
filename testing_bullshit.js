@@ -1,8 +1,8 @@
 function testing_bullshit() {
 	var result = [
-		"You should try a " + adjective() +" " + testing_technique() + " with a " + role() + " to " + outcome(),
+		"You should try " + adjective() +" " + testing_technique() + " with a " + role() + " to " + outcome(),
 		"Go and fire a " + role(),
-		"Think in " + testing_technique() + " as the new " + testing_technique(),
+		"Think " + testing_technique() + " as the new " + testing_technique(),
 		company() + " is killing " + testing_technique(),
 		"You should use " + adjective() +" " + testing_technique() + " to " + outcome(),
 		"Don't trust " + testing_people() + " and use a " + adjective() +" " + testing_technique() + " if you need to " + outcome(),
