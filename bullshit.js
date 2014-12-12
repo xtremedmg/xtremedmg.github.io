@@ -5,35 +5,40 @@
 		"tech lead",
 		"stakeholder",
 		"business analyst",
-		"project manager"
+		"project manager",
+		"tester",
+		"CEO",
 	];
 	return role[Math.floor(Math.random()*role.length)];
 }
 
 function testing_technique() {
 	var techn = [
-		"competitor analysis",
-		"user surveys",
-		"interviews",
-		"contextual enquiry",
-		"focus groups",
+		"functional testing",
+		"boundary value analysis",
+		"usability testing",
+		"security testing",
+		"automation testing",
 		"brainstorming",
-		"ideation session",
-		"affinity diagramming",
-		"task analysis",
-		"paper prototyping",
+		"manual testing",
+		"user acceptance testing",
+		"system integration testing",
+		"system testing",
 		"heuristic evaluation",
-		"storyboarding",
+		"use case analysis",
 		"performance testing",
-		"subjective evaluation",
-		"critical incidence technique",
-		"remote evaluation",
-		"personas",
-		"user journeys",
-		"longitudinal study",
-		"ethnography research",
-		"cultural probe",
-		"Participant Observation",
+		"state analysis",
+		"equivalence partitioning",
+		"risk based testing",
+		"risk analysis",
+		"error testing",
+		"pair testing",
+		"static analysis",
+		"exploratory testing",
+		"critical thinking",
+		"factory testing",
+		"agile testing",
+		"context-driven testing",
 	];
 	return techn[Math.floor(Math.random()*techn.length)];
 }
@@ -51,12 +56,10 @@ function adjective() {
 
 function company() {
 	var company = [
-		"Google",
-		"Microsoft",
-		"Apple",
-		"Amazon",
-		"Twitter",
-		"ThoughtWorks"
+		"ISTQB",
+		"ASTQB",
+		"ANZTB",
+		"IBM",
 	];
 	return company[Math.floor(Math.random()*company.length)]; 
 }
