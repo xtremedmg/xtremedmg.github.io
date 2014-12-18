@@ -6,6 +6,6 @@ function company() {
 		"IBM",
 		"Infosys",
 		"TCS",
-		"Wipro"
+		"Wipro",
 	]);
 }
