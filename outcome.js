@@ -5,17 +5,17 @@ function outcome() {
 		"increase test automation",
 		"benchmark system performance",
 		"increase ROI",
-		"identify long lasting test strategies"
-		"make use of best practices"
+		"identify long lasting test strategies",
+		"make use of best practices",
 		"change the game plan",
-		"develop a 200 page test plan"
+		"develop a 200 page test plan",
 		"go viral in social media channels",
 		"enhance user experience",
 		"reduce system leverage",
-		"provide 100% code coverage"
+		"provide 100% code coverage",
 		"foster new paradigms in testing",
 		"avoid assumption making",
-		"mitigate 100% product risk"
+		"mitigate 100% product risk",
 		"increase documentation quality",
 		"accurately estimate testing effort",
 		"cross-pollinate ideas between underpowered disciplines",
