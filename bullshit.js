@@ -88,6 +88,9 @@ function company() {
 		"ASTQB",
 		"ANZTB",
 		"IBM",
+		"Infosys",
+		"TCS",
+		"Wipro",
 	];
 	return company[Math.floor(Math.random()*company.length)]; 
 }
