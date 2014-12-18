@@ -4,5 +4,8 @@ function company() {
 		"ASTQB",
 		"ANZTB",
 		"IBM",
+		"Infosys",
+		"TCS",
+		"Wipro"
 	]);
 }
